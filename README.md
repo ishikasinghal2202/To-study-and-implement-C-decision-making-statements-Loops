@@ -54,6 +54,40 @@ Types of loops:-
 
 SAMPLE OUTPUT:
 
+      Print even values between 0 and 10:
+
+                                       0 2 4 6 8 10
+
+     Use a for loop to print “SIT" 5 times:
+
+                                      SIT
+                                      SIT
+                                      SIT
+                                      SIT
+                                      SIT
+
+
+CONCLUSION:
+
+Programs built with decision-making statements and loops demonstrate the power of structured logic and flow control in programming. These constructs allow developers to make dynamic decisions (if, else, switch) and efficiently execute repetitive tasks (for, while, do-while).
+
+By incorporating conditions into loops, such programs can:
+
+        - Adapt to user inputs or changing data.
+        - Optimize performance by avoiding unnecessary executions.
+        - Reduce redundancy through iteration.
+        - Handle multiple scenarios through conditional branching.
+
+Together, decision-making and loops form the foundation of real-world applications—from calculators and grading systems to data processors and game engines. Mastering these concepts strengthens both algorithmic thinking and your ability to design responsive, intelligent software.
+
+
+
+
+                                      
+                                  
+
+
+
               
 
 
