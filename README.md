@@ -66,6 +66,16 @@ SAMPLE OUTPUT:
                                       SIT
                                       SIT
 
+     Authenciate the password:
+     
+                          Enter your password: Ishika123
+                          Incorrect Password
+                          Enter your password: Ishika16
+                          Incorrect Password
+                          Enter your password: Ishikaaaaaaaaa
+                          Incorrect Password
+                          Access Denied. Too many failed attempts 
+
 
 CONCLUSION:
 
